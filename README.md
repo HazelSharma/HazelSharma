@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome to Hazel's Github 👋
 
-<!--
-**HazelSharma/HazelSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently a Computer Engineering student at the University of Toronto.
+
+🌱 Passionate about Software Developement and Project Management.
+
+😄 Previously worked at Pitch It Green as a Web Developer and Bell Canada as a Project Coordinator.
+
+⚡ Fun fact: I love hiking! Favourite experience was a 25km hike along 5 small towns in Cinque Terre, Italy.
+
+****
+Check out some of my technical projects and connect with me 📲
+
