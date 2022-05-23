@@ -7,7 +7,9 @@
 
 🌱 Passionate about Software Developement and Project Management.
 
-😄 Previously worked at Pitch It Green as a Web Developer and Bell Canada as a Project Coordinator.
+👩‍💻 Currently, working as a Web Developer @ Pitch It Green.
+
+💼 Previously, worked as a Project Coordinator @ Bell Canada.
 
 ⚡ Fun fact: I love hiking! Favourite experience was a 25km hike along 5 small towns in Cinque Terre, Italy.
 
