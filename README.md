@@ -7,7 +7,7 @@
 
 🌱 Passionate about Software Developement and Project Management.
 
-👩‍💻 Currently, working as a Web Developer @ Pitch It Green.
+👩‍💻 Currently, working as a Software Developer @ RBC.
 
 💼 Previously, worked as a Project Coordinator @ Bell Canada.
 
