@@ -5,7 +5,7 @@
 
 🔭 I’m currently a Computer Engineering student at the University of Toronto.
 
-🌱 Passionate about Software Developement and Project Management.
+🌱 Passionate about Software, Design and Project Management.
 
 👩‍💻 Currently, working as a Software Developer @ RBC.
 
