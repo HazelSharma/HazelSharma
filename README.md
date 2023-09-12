@@ -7,7 +7,7 @@
 
 🌱 Passionate about Software, Design and Project Management.
 
-👩‍💻 Currently, working as a Software Developer @ RBC.
+👩‍💻 Recently, wrapped up an internship as a Software Developer @ RBC.
 
 💼 Previously, worked as a Project Coordinator @ Bell Canada.
 
