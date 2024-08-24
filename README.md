@@ -7,9 +7,9 @@
 
 🌱 Passionate about Software, Design and Project Management.
 
-👩‍💻 Recently, wrapped up an internship as a Software Developer @ RBC.
+👩‍💻 Recently, wrapped up an internship as a Software Developement Engineer Intern @ AWS (Amazon Web Services).
 
-💼 Previously, worked as a Project Coordinator @ Bell Canada.
+💼 Previously, worked as a Project Coordinator @ Bell Canada and Software Dev Intern @ RBC.
 
 ⚡ Fun fact: I love hiking! Favourite experience was a 10km hike along small towns in Cinque Terre, Italy.
 
