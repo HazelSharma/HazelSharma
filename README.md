@@ -3,16 +3,14 @@
 
 **About Me**
 
-🔭 I’m currently a Computer Engineering student at the University of Toronto.
+🔭 I’m a Computer Engineering Graduate from the University of Toronto.
 
 🌱 Passionate about Software, Design and Project Management.
 
-👩‍💻 Recently, wrapped up an internship as a Software Developement Engineer Intern @ AWS (Amazon Web Services).
+👩‍💻 Currently working as a Software Developement Engineer @ AWS (Amazon Web Services).
 
-💼 Previously, worked as a Project Coordinator @ Bell Canada and Software Dev Intern @ RBC.
-
-⚡ Fun fact: I love hiking! Favourite experience was a 10km hike along small towns in Cinque Terre, Italy.
+⚡ I love hiking! Recently visited a beautiful Portugese island called Madeira and would highly recommend it as a travel destination:)
 
 ****
-Check out some of my technical projects and [connect with me on Linkedin](https://www.linkedin.com/in/hazel-sharma) 📲
+[Connect with me on Linkedin](https://www.linkedin.com/in/hazel-sharma) 📲
 
